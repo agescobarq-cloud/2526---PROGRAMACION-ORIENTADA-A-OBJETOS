@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="809a8962-9985-447e-adca-a1f5829a1c57" name="Changes" comment="Tarea semana 7" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;agescobarq-cloud&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/agescobarq-cloud/2526---PROGRAMACION-ORIENTADA-A-OBJETOS.git&quot;,
+    &quot;accountId&quot;: &quot;7ab1c538-4a33-4c23-af49-5d9cbf2dc159&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36Jnz2gd8qQAOwUhVmaKKEMzVr2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1. Abstracción.executor&quot;: &quot;Run&quot;,
+    &quot;Python.333.executor&quot;: &quot;Run&quot;,
+    &quot;Python.99999.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulación.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Herencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa para calcular el área de un rectángulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Tradicional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Reservas de Hotel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tienda Online.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.animal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.empleado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.figuras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gestion_empleados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_abstraccion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_encapsulacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_herencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.persona.executor&quot;: &quot;Run&quot;,
+    &quot;Python.refugio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.registro_estudiante_simple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/PycharmProjects/2526---PROGRAMACION-ORIENTADA-A-OBJETOS/Tarea semana 6/Sistema de Administración de Empleados/servicios&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\2526---PROGRAMACION-ORIENTADA-A-OBJETOS\Tarea semana 6\Sistema de Administración de Empleados\servicios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\2526---PROGRAMACION-ORIENTADA-A-OBJETOS\Tarea Semana 7\Sistema Básico de Biblioteca" />
+      <recent name="C:\Users\hp\PycharmProjects\2526---PROGRAMACION-ORIENTADA-A-OBJETOS\Tarea Semana 7\Sistema Básico de Biblioteca\modelos " />
+      <recent name="C:\Users\hp\PycharmProjects\2526---PROGRAMACION-ORIENTADA-A-OBJETOS\Tarea semana 6\refugio_animales\modelos" />
+      <recent name="C:\Users\hp\PycharmProjects\2526---PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <recent name="C:\Users\hp\PycharmProjects\2526---PROGRAMACION-ORIENTADA-A-OBJETOS\Tarea semana 2\Tecnicas de programación" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809a8962-9985-447e-adca-a1f5829a1c57" name="Changes" comment="" />
+      <created>1764733800733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764733800733</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1764734409495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764734409495</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea semana 2">
+      <option name="closed" value="true" />
+      <created>1764734560734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764734560734</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea semana 2">
+      <option name="closed" value="true" />
+      <created>1764736568678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764736568678</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea semana 2">
+      <option name="closed" value="true" />
+      <created>1764736594229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764736594229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tarea semana 2">
+      <option name="closed" value="true" />
+      <created>1764736828226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764736828226</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tecnicas de programación">
+      <option name="closed" value="true" />
+      <created>1765138481896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765138481896</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tecnicas de programación">
+      <option name="closed" value="true" />
+      <created>1765138659173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765138659173</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea semana 3">
+      <option name="closed" value="true" />
+      <created>1765257708796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765257708796</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea semana 3">
+      <option name="closed" value="true" />
+      <created>1765257880205</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765257880205</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea semana 3">
+      <option name="closed" value="true" />
+      <created>1765943949962</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765943949962</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Tarea semana 4">
+      <option name="closed" value="true" />
+      <created>1765943969283</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765943969283</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1767674468726</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767674468726</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1768071283187</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768071283195</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1768071295631</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768071295631</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Tarea semana 6">
+      <option name="closed" value="true" />
+      <created>1768533567644</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768533567644</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Tarea semana 6">
+      <option name="closed" value="true" />
+      <created>1768535631429</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1768535631429</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Tarea semana 6">
+      <option name="closed" value="true" />
+      <created>1768678037841</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1768678037841</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tarea semana 6">
+      <option name="closed" value="true" />
+      <created>1768680514435</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1768680514435</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1768684734748</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1768684734748</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1768685018202</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768685018202</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Tarea semana 6">
+      <option name="closed" value="true" />
+      <created>1768685036101</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768685036101</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Tarea semana 7">
+      <option name="closed" value="true" />
+      <created>1769055074423</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1769055074423</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Tarea semana 2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Tecnicas de programación" />
+    <MESSAGE value="Tarea semana 3" />
+    <MESSAGE value="Tarea semana 4" />
+    <MESSAGE value="Tarea semana 5" />
+    <MESSAGE value="Tarea semana 6" />
+    <MESSAGE value="Tarea semana 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 7" />
+  </component>
+</project>
