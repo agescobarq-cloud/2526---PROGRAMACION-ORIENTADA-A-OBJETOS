@@ -157,3 +157,4 @@ def mostrar_scripts(ruta_carpeta, nombre_carpeta):
 if __name__ == "__main__":
     print("Iniciando Dashboard POO personalizado...")
     mostrar_menu()
+
